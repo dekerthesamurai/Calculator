@@ -8,6 +8,10 @@ This is a simple project in which i used basic HTML, CSS and JavaScript.
 
 
 ## Instructions to run
-The calculator has been hosted in a one of the github pages that github offers among many other features. Just go the link given below and see the calculator in action.Click the link below to use the calculator.
+The calculator has been hosted in a one of the github pages that github offers among many other features. Just go the link given below and see the calculator in action.
 
+Click the link below to use the calculator.
+```
+https://dekerthesamurai.github.io/Calculator/
+```
 
